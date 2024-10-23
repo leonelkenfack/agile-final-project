@@ -1,3 +1,4 @@
+alert("h");
 let W = window.innerWidth;
 let H = window.innerHeight;
 const canvas = document.getElementById("canvas");
